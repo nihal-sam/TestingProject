@@ -19,7 +19,7 @@ The automation covers login, appointment booking, history review, and invalid lo
 4. **Checking appointment history**
 5. **Handling errors for incorrect inputs**
    
-👉 **[Download Test Case PDF](cura%20webpage%20testing%20project.pdf)**
+👉 **[Download Test Case PDF](https://github.com/nihal-sam/TestingProject/blob/main/seleniumprojec/cura%20webpage%20testing%20project.pdf)**
 
 
 ## 🛠️ Setup Instructions
